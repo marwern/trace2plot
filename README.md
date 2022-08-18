@@ -1,6 +1,6 @@
 trace2plot - Visualize traces of simulated Quartz programs
 =============================================================
-
+ 
 trace2plot is a small set of scripts to visualize traces of Quartz programs simulated with the [Averest](http://www.averest.org/) framework.
 
 Features
