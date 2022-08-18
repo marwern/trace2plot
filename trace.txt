@@ -1,0 +1,1326 @@
+﻿
+*******************************************
+ simulating xxxxx with driver Drv01
+*******************************************
+===========================================
+ SIMULATION STEP 0
+===========================================
+i : false
+clk : 0
+o : false
+el : 0
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : false
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : false
+__lvar013 : false
+__lvar014 : false
+__lvar015 : false
+__lvar016 : false
+__lvar017 : true
+____running001 : false
+S1 : false
+S2 : false
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell000<0>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S1) = true
+	next(clk) = 0
+===========================================
+ SIMULATION STEP 1
+===========================================
+i : false
+clk : 0
+o : false
+el : 0
+pt : 3
+__lvar000 : true
+__lvar001 : true
+__lvar002 : false
+__lvar003 : false
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : false
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : true
+S2 : false
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell000<1>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S1) = true
+	next(clk) = 0
+===========================================
+ SIMULATION STEP 2
+===========================================
+i : false
+clk : 0
+o : false
+el : 0
+pt : 3
+__lvar000 : true
+__lvar001 : true
+__lvar002 : false
+__lvar003 : false
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : false
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : true
+S2 : false
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell000<2>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S1) = true
+	next(clk) = 0
+===========================================
+ SIMULATION STEP 3
+===========================================
+i : true
+clk : 0
+o : false
+el : 0
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : true
+__lvar003 : false
+__lvar004 : false
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : false
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : true
+S2 : false
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell001<0>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S2) = true
+	next(clk) = 1
+===========================================
+ SIMULATION STEP 4
+===========================================
+i : true
+clk : 1
+o : false
+el : 1
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : false
+__lvar004 : false
+__lvar005 : true
+__lvar006 : true
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : true
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : true
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell001<1>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S2) = true
+	next(clk) = 2
+===========================================
+ SIMULATION STEP 5
+===========================================
+i : true
+clk : 2
+o : false
+el : 2
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : false
+__lvar004 : false
+__lvar005 : true
+__lvar006 : true
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : true
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : true
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell001<2>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S2) = true
+	next(clk) = 3
+===========================================
+ SIMULATION STEP 6
+===========================================
+i : false
+clk : 3
+o : false
+el : 0
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : true
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : true
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : true
+__lvar013 : false
+__lvar014 : true
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : true
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell002<0>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S1) = true
+	next(clk) = 0
+===========================================
+ SIMULATION STEP 7
+===========================================
+i : false
+clk : 0
+o : false
+el : 0
+pt : 3
+__lvar000 : true
+__lvar001 : true
+__lvar002 : false
+__lvar003 : false
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : false
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : true
+S2 : false
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell002<1>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S1) = true
+	next(clk) = 0
+===========================================
+ SIMULATION STEP 8
+===========================================
+i : false
+clk : 0
+o : false
+el : 0
+pt : 3
+__lvar000 : true
+__lvar001 : true
+__lvar002 : false
+__lvar003 : false
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : false
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : true
+S2 : false
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell002<2>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S1) = true
+	next(clk) = 0
+===========================================
+ SIMULATION STEP 9
+===========================================
+i : false
+clk : 0
+o : false
+el : 0
+pt : 3
+__lvar000 : true
+__lvar001 : true
+__lvar002 : false
+__lvar003 : false
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : false
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : true
+S2 : false
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell002<3>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S1) = true
+	next(clk) = 0
+===========================================
+ SIMULATION STEP 10
+===========================================
+i : false
+clk : 0
+o : false
+el : 0
+pt : 3
+__lvar000 : true
+__lvar001 : true
+__lvar002 : false
+__lvar003 : false
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : false
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : true
+S2 : false
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell002<4>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S1) = true
+	next(clk) = 0
+===========================================
+ SIMULATION STEP 11
+===========================================
+i : false
+clk : 0
+o : false
+el : 0
+pt : 3
+__lvar000 : true
+__lvar001 : true
+__lvar002 : false
+__lvar003 : false
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : false
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : true
+S2 : false
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell002<5>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S1) = true
+	next(clk) = 0
+===========================================
+ SIMULATION STEP 12
+===========================================
+i : true
+clk : 0
+o : false
+el : 0
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : true
+__lvar003 : false
+__lvar004 : false
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : false
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : true
+S2 : false
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell003<0>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S2) = true
+	next(clk) = 1
+===========================================
+ SIMULATION STEP 13
+===========================================
+i : true
+clk : 1
+o : false
+el : 1
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : false
+__lvar004 : false
+__lvar005 : true
+__lvar006 : true
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : true
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : true
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell003<1>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S2) = true
+	next(clk) = 2
+===========================================
+ SIMULATION STEP 14
+===========================================
+i : true
+clk : 2
+o : false
+el : 2
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : false
+__lvar004 : false
+__lvar005 : true
+__lvar006 : true
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : true
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : true
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell003<2>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S2) = true
+	next(clk) = 3
+===========================================
+ SIMULATION STEP 15
+===========================================
+i : true
+clk : 3
+o : true
+el : 3
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : true
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : true
+__lvar008 : false
+__lvar009 : false
+__lvar010 : true
+__lvar011 : true
+__lvar012 : true
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : true
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell003<3>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S3) = true
+===========================================
+ SIMULATION STEP 16
+===========================================
+i : false
+clk : 3
+o : false
+el : 0
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : true
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : true
+__lvar013 : false
+__lvar014 : true
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : false
+S3 : true
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell004<0>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S1) = true
+	next(clk) = 0
+===========================================
+ SIMULATION STEP 17
+===========================================
+i : false
+clk : 0
+o : false
+el : 0
+pt : 3
+__lvar000 : true
+__lvar001 : true
+__lvar002 : false
+__lvar003 : false
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : false
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : true
+S2 : false
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell004<1>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S1) = true
+	next(clk) = 0
+===========================================
+ SIMULATION STEP 18
+===========================================
+i : false
+clk : 0
+o : false
+el : 0
+pt : 3
+__lvar000 : true
+__lvar001 : true
+__lvar002 : false
+__lvar003 : false
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : false
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : true
+S2 : false
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell004<2>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S1) = true
+	next(clk) = 0
+===========================================
+ SIMULATION STEP 19
+===========================================
+i : true
+clk : 0
+o : false
+el : 0
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : true
+__lvar003 : false
+__lvar004 : false
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : false
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : true
+S2 : false
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell005<0>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S2) = true
+	next(clk) = 1
+===========================================
+ SIMULATION STEP 20
+===========================================
+i : true
+clk : 1
+o : false
+el : 1
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : false
+__lvar004 : false
+__lvar005 : true
+__lvar006 : true
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : true
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : true
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell005<1>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S2) = true
+	next(clk) = 2
+===========================================
+ SIMULATION STEP 21
+===========================================
+i : true
+clk : 2
+o : false
+el : 2
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : false
+__lvar004 : false
+__lvar005 : true
+__lvar006 : true
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : true
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : true
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell005<2>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S2) = true
+	next(clk) = 3
+===========================================
+ SIMULATION STEP 22
+===========================================
+i : true
+clk : 3
+o : true
+el : 3
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : true
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : true
+__lvar008 : false
+__lvar009 : false
+__lvar010 : true
+__lvar011 : true
+__lvar012 : true
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : true
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell005<3>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S3) = true
+===========================================
+ SIMULATION STEP 23
+===========================================
+i : true
+clk : 3
+o : true
+el : 3
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : true
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : true
+__lvar009 : true
+__lvar010 : false
+__lvar011 : false
+__lvar012 : true
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : false
+S3 : true
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell005<4>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S3) = true
+===========================================
+ SIMULATION STEP 24
+===========================================
+i : true
+clk : 3
+o : true
+el : 3
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : true
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : true
+__lvar009 : true
+__lvar010 : false
+__lvar011 : false
+__lvar012 : true
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : false
+S3 : true
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell005<5>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S3) = true
+===========================================
+ SIMULATION STEP 25
+===========================================
+i : false
+clk : 3
+o : false
+el : 0
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : true
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : true
+__lvar013 : false
+__lvar014 : true
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : false
+S3 : true
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell006<0>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S1) = true
+	next(clk) = 0
+===========================================
+ SIMULATION STEP 26
+===========================================
+i : false
+clk : 0
+o : false
+el : 0
+pt : 3
+__lvar000 : true
+__lvar001 : true
+__lvar002 : false
+__lvar003 : false
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : false
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : true
+S2 : false
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell006<1>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S1) = true
+	next(clk) = 0
+===========================================
+ SIMULATION STEP 27
+===========================================
+i : true
+clk : 0
+o : false
+el : 0
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : true
+__lvar003 : false
+__lvar004 : false
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : false
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : true
+S2 : false
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell007<0>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S2) = true
+	next(clk) = 1
+===========================================
+ SIMULATION STEP 28
+===========================================
+i : true
+clk : 1
+o : false
+el : 1
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : false
+__lvar004 : false
+__lvar005 : true
+__lvar006 : true
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : true
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : true
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell007<1>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S2) = true
+	next(clk) = 2
+===========================================
+ SIMULATION STEP 29
+===========================================
+i : true
+clk : 2
+o : false
+el : 2
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : false
+__lvar004 : false
+__lvar005 : true
+__lvar006 : true
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : true
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : true
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell007<2>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S2) = true
+	next(clk) = 3
+===========================================
+ SIMULATION STEP 30
+===========================================
+i : true
+clk : 3
+o : true
+el : 3
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : true
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : true
+__lvar008 : false
+__lvar009 : false
+__lvar010 : true
+__lvar011 : true
+__lvar012 : true
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : true
+S3 : false
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell007<3>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S3) = true
+===========================================
+ SIMULATION STEP 31
+===========================================
+i : true
+clk : 3
+o : true
+el : 3
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : true
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : true
+__lvar009 : true
+__lvar010 : false
+__lvar011 : false
+__lvar012 : true
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : false
+S3 : true
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell007<4>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S3) = true
+===========================================
+ SIMULATION STEP 32
+===========================================
+i : true
+clk : 3
+o : true
+el : 3
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : true
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : true
+__lvar009 : true
+__lvar010 : false
+__lvar011 : false
+__lvar012 : true
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : false
+S3 : true
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell007<5>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S3) = true
+===========================================
+ SIMULATION STEP 33
+===========================================
+i : true
+clk : 3
+o : true
+el : 3
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : true
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : true
+__lvar009 : true
+__lvar010 : false
+__lvar011 : false
+__lvar012 : true
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : false
+S3 : true
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell007<6>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S3) = true
+===========================================
+ SIMULATION STEP 34
+===========================================
+i : true
+clk : 3
+o : true
+el : 3
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : true
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : true
+__lvar009 : true
+__lvar010 : false
+__lvar011 : false
+__lvar012 : true
+__lvar013 : false
+__lvar014 : false
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : false
+S3 : true
+delayed assignments of driver are:
+	next(____running000) = true
+	next(__ell007<7>) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S3) = true
+===========================================
+ SIMULATION STEP 35
+===========================================
+i : false
+clk : 3
+o : false
+el : 0
+pt : 3
+__lvar000 : false
+__lvar001 : false
+__lvar002 : false
+__lvar003 : true
+__lvar004 : true
+__lvar005 : false
+__lvar006 : false
+__lvar007 : false
+__lvar008 : false
+__lvar009 : false
+__lvar010 : false
+__lvar011 : false
+__lvar012 : true
+__lvar013 : false
+__lvar014 : true
+__lvar015 : true
+__lvar016 : false
+__lvar017 : true
+____running001 : true
+S1 : false
+S2 : false
+S3 : true
+delayed assignments of driver are:
+	next(____running000) = true
+delayed assignments of aif system:
+	next(____running001) = true
+	next(S1) = true
+	next(clk) = 0
