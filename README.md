@@ -17,5 +17,5 @@ Planned features
 
 Example
 ----------------
-* see trace.txt
+* result of example 'trace.txt'
 ![test](https://user-images.githubusercontent.com/92115516/185459423-6bcc11ba-d2df-4451-8933-ec2a11e82fe1.png)
